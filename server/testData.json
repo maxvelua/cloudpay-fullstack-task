@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Samsung",
+    "logo": "https://placekitten.com/g/64/64",
+    "services": ["Payroll", "Treasury"],
+    "country": "Korea"
+  },
+  {
+    "name": "PWC",
+    "logo": "https://placekitten.com/g/64/64",
+    "services": ["Payroll", "Treasury", "Bank Payments", "Implementation"],
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Apple",
+    "logo": "https://placekitten.com/g/64/64",
+    "services": ["Payroll"],
+    "country": "United States of America"
+  },
+  {
+    "name": "Facebook",
+    "logo": "https://placekitten.com/g/64/64",
+    "services": ["Treasury"],
+    "country": "United States of America"
+  }
+]
